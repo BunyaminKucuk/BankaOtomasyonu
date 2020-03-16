@@ -1,2 +1,2 @@
 # BankaOtomasyonu
-Basit bir şekilde C programlama dilinde yazılmış bir otomasyon
+I did this project while taking an Algorithm lesson in the 1st grade.
