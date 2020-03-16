@@ -1,3 +1,12 @@
 # BankaOtomasyonu
 I did this project while taking an Algorithm lesson in the 1st grade.
-![https://github.com/BunyaminKucuk/BankaOtomasyonu/commit/e8a8645594074b1a8ed75d9b4bf6e2738bd56bc5#commitcomment-37844381]
+
+![](https://raw.githubusercontent.com/BunyaminKucuk/BankaOtomasyonu/master/Readme/Main1%20(2).png)
+
+First of all, after determining the account type;
+1) Add new customer
+2) Creating an account
+3) Withdraw
+4) Deposits etc. are made.
+
+![](https://raw.githubusercontent.com/BunyaminKucuk/BankaOtomasyonu/master/Readme/Hesap%20(2).png)
